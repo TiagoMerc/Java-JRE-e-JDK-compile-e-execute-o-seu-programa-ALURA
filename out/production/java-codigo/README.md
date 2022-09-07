@@ -36,20 +36,3 @@ Nessa aula você escreveu o seu primeiro código Java e aprendemos:
 **Primeiro programa "Ola mundo"**
 
 ![Primeiro programa ola mundo](./imgs/prints/ProgramaOlaMundo.png)
-
-### 03. Começando com IDE
-
-**Este capítulo apresentou:**
-
-- O papel de um IDE e sua diferença de um editor
-
-- Como fazer o download do Eclipse IDE
-
-- Para que serve um workspace
-
-- O conceito de perspectiva
-
-- Como criar um projeto Java, inclusive classes e como executá-lo.
-
-- Como exibir diferentes views
-### 04. Tipos de variáveis
