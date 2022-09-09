@@ -55,7 +55,7 @@ Nessa aula você escreveu o seu primeiro código Java e aprendemos:
 
 ### 04. Tipos de variáveis
 
-O que aprendemos?
+**O que aprendemos?**
 
 Nesta aula iniciamos nosso aprendizado com variáveis e tipos primitivos do Java. Os tipos vistos com mais detalhe foram int (inteiro) e double (decimal). Que usamos para fazer operações aritméticas e também concatenar com texto.
 
@@ -67,3 +67,16 @@ Foi possível entender um pouco de type casting e como podemos passar um valor d
 
 ### 05. Trabalhando com caracteres 
 
+**Este capítulo apresentou:**
+
+- O conceito e como declarar char e String
+
+- Como concatenar Strings
+
+- Atalho para criação da main
+
+- Variáveis guardam valores e não referências.
+
+![Trabalhando com caracteres](./imgs/prints/trabalhancoComCaracteres.png)
+
+### 06. Praticando condicionais
