@@ -101,3 +101,23 @@ Também já vimos alguns atalhos no Eclipse:
   - para gerar a instrução **System.out.println()**
 
 ### 07. Controlando fluxo com laços   
+
+ **Laços Encadeados**
+ 
+![Laços Encadeados](./imgs/prints/TestandoLacos.png)
+
+**Mais laços com break**
+
+![Mais laços com break](./imgs/prints/maisLacos.png)
+
+**Neste capítulo aprendemos:**
+
+- A sintaxe do while e **for**
+
+- O operador **+=**
+
+- O operador **++**
+
+- Laços aninhados
+
+- A funcionalidade do **break**
